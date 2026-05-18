@@ -16,6 +16,8 @@ What I did:
 
 Screenshots of Progress:
 <img width="1328" height="984" alt="image" src="https://github.com/user-attachments/assets/56142911-e097-4e6e-85a2-ed2f6763fcc7" />
-<img width="1328" height="984" alt="image" src="https://github.com/user-attachments/assets/3e38841c-1edd-4510-ab75-040de5061c87" />
+<img width="1061" height="681" alt="image" src="https://github.com/user-attachments/assets/7e6b145b-c0be-4564-8d85-e30a054a9b51" />
+
+
 
 
