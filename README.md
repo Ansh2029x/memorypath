@@ -7,3 +7,15 @@ What I did:
 
 Screenshot of Progress:
 <img width="838" height="601" alt="image" src="https://github.com/user-attachments/assets/8a8e8085-2a93-45f1-922b-9fd6121da2b9" />
+
+## Pathfinder Session 2 - [2.5 hours]
+What I did:
+- Learned how to set up my PCB
+- I made my own original design for the board and wired it nicely with a cool board cut
+- I added the 3d objects so I can view it
+
+Screenshots of Progress:
+<img width="1328" height="984" alt="image" src="https://github.com/user-attachments/assets/56142911-e097-4e6e-85a2-ed2f6763fcc7" />
+<img width="1328" height="984" alt="image" src="https://github.com/user-attachments/assets/3e38841c-1edd-4510-ab75-040de5061c87" />
+
+
