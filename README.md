@@ -18,6 +18,14 @@ Screenshots of Progress:
 <img width="1328" height="984" alt="image" src="https://github.com/user-attachments/assets/56142911-e097-4e6e-85a2-ed2f6763fcc7" />
 <img width="1061" height="681" alt="image" src="https://github.com/user-attachments/assets/7e6b145b-c0be-4564-8d85-e30a054a9b51" />
 
+## Pathfinder Session 3 - [2 hours]
 
+What I did:
+- Learned basic C++ to code in Arduino
+- Made my own memory game in which 4 LEDs light up to display various patterns that you need to memorize and press buttons in the corresponding order
+- I also set up Wakatime, kind of?
+
+Screenshot of Progress:
+<img width="2539" height="1394" alt="image" src="https://github.com/user-attachments/assets/c2288dad-7ac6-48bd-af1e-6b785392aee7" />
 
 
